@@ -1,0 +1,57 @@
+.image{
+    width: 400px;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+.dotActive{
+ color: blue;
+ font-size: 3rem;
+margin-right: 0.5rem;
+}
+
+.dotNoActive{
+    color: white;
+    margin-right: 0.5rem;
+    font-size: 3rem;
+}
+
+.dots{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    display: grid;
+    justify-content: center;
+}
+
+.arrow{
+    padding: 1rem;
+    border-radius: 100%;
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
+}
+
+.arrow:hover{
+    background: none;
+    background-color: white;
+    padding: 1rem;
+    border-radius: 100%;
+    color: black;
+    cursor: pointer;
+}
+
+.arrows{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    top: 50%;
+    padding: 1rem;
+
+}
+
+.greytext{
+    color: #717171;
+}

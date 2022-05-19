@@ -1,0 +1,22 @@
+.image{
+    width: 20px;
+    text-align: center;
+    opacity: 1;
+    cursor: pointer;
+}
+
+.imageBefore{
+    width: 20px;
+    text-align: center;
+    color: grey;
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.image:hover{
+    opacity: 1;
+}
+
+.imageBefore:hover{
+    opacity: 1;
+}

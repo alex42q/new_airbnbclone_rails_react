@@ -1,0 +1,49 @@
+.image{
+    width: 150px;
+}
+.guests{
+    color: grey;
+    font-weight: lighter;
+    margin-right: 0.8rem;
+    font-size: 0.875rem;
+}
+
+.anywhere{
+    font-size: 0.875rem;
+}
+
+.magIcon{
+    background-color: #ff385c;
+    padding: 0.6rem;
+    border-radius: 100%;
+    color: white;
+}
+
+.leftIcons{
+    box-shadow: 0 1px 2px rgba(0,0,0,0.08),0 4px 12px rgba(0,0,0,0.05);
+    padding: 0.9rem;
+    border-radius: 40px;
+}
+
+.personIcon{
+    background-color: grey;
+    color: white;
+    border-radius: 100%;
+    padding: 0.5rem;
+}
+
+.navBorder{
+    box-shadow: 0 1px 2px rgba(0,0,0,0.08),0 4px 12px rgba(0,0,0,0.05);
+    padding: 0.9rem;
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 40px;
+}
+
+.anywhereborder{
+    border-right: 1px solid black;
+    padding-top: 0.9rem;
+    padding-bottom: 0.9rem;
+    margin-right: 0.5rem;
+    margin-left: 0rem;
+}
